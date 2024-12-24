@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Meenaz-Sanadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Travel and Tourism Website
 
-<!---
-Meenaz-Sanadi/Meenaz-Sanadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A comprehensive web application designed to inspire wanderlust and simplify travel planning. This platform offers:
+* Destination Exploration: Discover stunning destinations, from bustling cities to serene natural wonders.
+*Personalized Trip Planning: Create custom itineraries tailored to your preferences and interests.
+* Booking Services: Seamlessly book hotels.
+* Mobile-Friendly Design: Access travel and tourism website on mobile device.
+  
+Key Features:
+* User-Friendly Interface: Intuitive navigation and visually appealing design.
+* Robust Search Functionality: Efficiently find destinations, accommodations, and activities.
+  
+Technologies Used:
+ * Frontend: HTML, CSS, JavaScript
+
+ * Contributing:
+We welcome contributions from the open-source community. Please feel free to fork the repository, make improvements, and submit pull requests.
